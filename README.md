@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, i'm Marcos Vinicios
 
-<!--
-**VarcosMinicios/VarcosMinicios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught technology enthusiast
 
-Here are some ideas to get you started:
+- 💼 Today i work in a hospital building a intregrated software.
+- 🌱 I’m currently learning HTML5, CSS3 and Laravel.
+- 👾 I'm want to colaborate in projects and learn more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; margin-bottom: 10px;">
+  <a href="https://github.com/VarcosMinicios">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VarcosMinicios&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/VarcosMinicios">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarcosMinicios&layout=compact&langs_count=16&theme=dark" />
+  </a>
+</div>
+  
+<div style="display: flex; margin-top: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="width: 5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" style="width: 5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 5%"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 5%"/>
+</div>
+
