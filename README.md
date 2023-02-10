@@ -1,10 +1,6 @@
 ### Hi there, i'm Marcos Vinicios
 
-I'm a self-taught technology enthusiast
-
-- 💼 Today i work with Web Development, maintaining a private web application from a company.
-- 🌱 I’m currently learning Laravel with PHP.
-- 👾 I'm want to colaborate in projects and learn more.
+I'm a self-taught Web Developer
 
 <br>
 <div align="center">
