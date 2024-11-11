@@ -18,6 +18,5 @@ Working as Full-stack Developer at Zarpon
 
 ## 📈 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarcosMinicios&show_icons=false&theme=shadow_red&text_color=808080" height="200px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarcosMinicios&theme=shadow_red&text_color=808080&layout=compact" height="200px">
 </div>
